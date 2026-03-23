@@ -86,10 +86,16 @@ endmodule
 
 **Logic symbol & Truthtable**
 
+<img width="558" height="340" alt="image" src="https://github.com/user-attachments/assets/595c4443-1195-4359-a0ca-282de34dc25b" />
+
 **RTL realization Output:** 
 
 **RTL**
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bb2b72f7-a057-4933-91db-3a526267257e" />
+
 **Result:**
+
+Thus the basic logic gates are studied and the truth tables are verified.
 
 
